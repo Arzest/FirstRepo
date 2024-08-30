@@ -1,0 +1,7 @@
+D:\ProgTwo\ProgTwo\bin\Debug\ProgTwo.exe.config
+D:\ProgTwo\ProgTwo\bin\Debug\ProgTwo.exe
+D:\ProgTwo\ProgTwo\bin\Debug\ProgTwo.pdb
+D:\ProgTwo\ProgTwo\obj\Debug\ProgTwo.csproj.AssemblyReference.cache
+D:\ProgTwo\ProgTwo\obj\Debug\ProgTwo.csproj.CoreCompileInputs.cache
+D:\ProgTwo\ProgTwo\obj\Debug\ProgTwo.exe
+D:\ProgTwo\ProgTwo\obj\Debug\ProgTwo.pdb
