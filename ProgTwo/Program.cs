@@ -10,6 +10,7 @@ namespace ProgTwo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Xdik");
             ComputerClub computerClub = new ComputerClub(9);
             computerClub.Work();
         }
